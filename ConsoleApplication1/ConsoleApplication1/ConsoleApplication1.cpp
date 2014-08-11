@@ -3,16 +3,16 @@
 
 
 #include "stdafx.h"
-#include <string>
 #include <iostream>
+#include <string>
 
-#include <fstream>
+
 
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-
-
+	
+	
 
 	//ÔÝÍ£
 	std::system("pause");

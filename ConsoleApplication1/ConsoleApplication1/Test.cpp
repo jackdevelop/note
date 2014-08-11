@@ -38,7 +38,7 @@ void Test::init(int number)
 
 int Test::add(int num[],int len)
 {
-	Test::one = Test::one+1;	
+	//Test::one = Test::one+1;	
 	int all = 0;
 	//int len = sizeof(num)/sizeof(int);
 	//int len = _msize(num);
